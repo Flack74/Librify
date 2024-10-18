@@ -8,7 +8,6 @@ app = Flask(__name__)
 
 # Configuration
 app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///{os.path.join(BASE_DIR, 'library.db')}"
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, 'static/uploads')
 
 # Initialize the database
