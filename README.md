@@ -3,8 +3,6 @@
 
 **Librify** is a **Python-based library management application** that allows users to effortlessly curate and manage their book collections. With a focus on user experience, Librify makes it easy to add, view, update, and delete books. 📖✨
 
-https://librify-bhd3.onrender.com/
-
 ---
 
 ## ✨ Features
